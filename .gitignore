@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.venv/
+build/
+dist/
+data/
+runs/
+deepmimo_scenarios/
+.DS_Store
